@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286199599464",
+    "project_id": "shop-jumia-app",
+    "storage_bucket": "shop-jumia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286199599464:android:14216262d6901498e7c6dd",
+        "android_client_info": {
+          "package_name": "com.example.shop_jumia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286199599464-a533kmao49fqb32s8rifc8nipfqd1u6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBul7JdPL46CZoMuMIrm0Z7rJOhYDORvEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286199599464-a533kmao49fqb32s8rifc8nipfqd1u6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.editor.highlightModifiedTabs": true,
+
+    "workbench.colorCustomizations": 
+    {
+        "editor.selectionBackground": "#5a4da5",
+        "editor.findMatchBackground": "#948a8a", //Current SEARCH MATCH
+        "editor.findMatchHighlightBackground": "#948a8a", //Other SEARCH MATCHES
+        "editor.selectionHighlightBorder": "#FFFA",
+
+    },
+    "editor.tokenColorCustomizations": null,
+}
