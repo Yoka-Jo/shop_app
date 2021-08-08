@@ -1,4 +1,4 @@
-# shop_jumia_app
+# shop_app
 
 A new Flutter project.
 
