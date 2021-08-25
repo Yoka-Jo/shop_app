@@ -3,22 +3,22 @@ An e-commerce app which allows users to buy and sell items.
 
 # Screenshots
 <p align="center">
-  <img src='shopPics/shop1.png'height="500"/>  
-  <img src='shopPics/shop2.png'height="500"/>  
-  <img src='shopPics/shop3.png'height="500"/>  
-  <img src='shopPics/shop4.png'height="500"/>  
-  <img src='shopPics/shop5.png'height="500"/>  
-  <img src='shopPics/shop6.png'height="500"/>  
-  <img src='shopPics/shop7.png'height="500"/>  
-  <img src='shopPics/shop8.png'height="500"/>  
-  <img src='shopPics/shop9.png'height="500"/>  
-  <img src='shopPics/shop10.png'height="500"/>  
-  <img src='shopPics/shop11.png'height="500"/>  
-  <img src='shopPics/shop12.png'height="500"/>  
-  <img src='shopPics/shop13.png'height="500"/>  
-  <img src='shopPics/shop14.png'height="500"/>  
-  <img src='shopPics/shop15.png'height="500"/>  
-  <img src='shopPics/shop16.png'height="500"/>  
+  <img src='shopPics/shop1.png'width="42%"/>  
+  <img src='shopPics/shop2.png'width="42%"/>  
+  <img src='shopPics/shop3.png'width="42%"/>  
+  <img src='shopPics/shop4.png'width="42%"/>  
+  <img src='shopPics/shop5.png'width="42%"/>  
+  <img src='shopPics/shop6.png'width="42%"/>  
+  <img src='shopPics/shop7.png'width="42%"/>  
+  <img src='shopPics/shop8.png'width="42%"/>  
+  <img src='shopPics/shop9.png'width="42%"/>  
+  <img src='shopPics/shop10.png'width="42%"/>  
+  <img src='shopPics/shop11.png'width="42%"/>  
+  <img src='shopPics/shop12.png'width="42%"/>  
+  <img src='shopPics/shop13.png'width="42%"/>  
+  <img src='shopPics/shop14.png'width="42%"/>  
+  <img src='shopPics/shop15.png'width="42%"/>  
+  <img src='shopPics/shop16.png'width="42%"/>  
 </p>
 
 # Features
