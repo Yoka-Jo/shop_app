@@ -2,6 +2,8 @@
 An e-commerce app which allows users to buy and sell items.
 
 # Screenshots
+
+<p align="center"><img src='shopPics/shopGif.gif'height="500"/></p>
 <p align="center">
   <img src='shopPics/shop1.png'width="42%"/>  
   <img src='shopPics/shop2.png'width="42%"/>  
