@@ -1,5 +1,5 @@
 # shopApp
-An e-commerce app which allows users to buy and sell items.
+An E-Commerce app which allows users to buy and sell items.
 
 # Screenshots
 
